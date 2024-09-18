@@ -17,10 +17,11 @@ transform-origin: bottom;
 }
 
 #hour{
-    height: 24%;
+    height: 25%;
     width: 1.5%;
-    top: 26%;
+    top: 25.5%;
     left: 49.3%;
+  
    
 }
     
@@ -29,10 +30,10 @@ transform-origin: bottom;
 
 
 #min{
-    height: 27%;
+     height: 27%;
     width: 1%;
-    top: 24%;
-    left: 49.7%;
+    top: 23.3%;
+    left: 49.5%;
    
    
 }
